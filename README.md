@@ -1,1 +1,2 @@
 # ionicrepos
+ionic aşaması
